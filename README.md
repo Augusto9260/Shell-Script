@@ -1,3 +1,2 @@
 # Shell-Script
-Projetos com Shell-Script,
-Automação de tarefas por linha de comando.
+Um Script para atualizar seu sistema por linha de comando.
